@@ -1,4 +1,5 @@
-BMI CALCULATOR APP
+
+<h1 align="center">BMI CALCULATOR APP</h1>
 
 https://salesfoceaysenurportfolio-dev-ed.develop.my.site.com/bmi-calculator
 
